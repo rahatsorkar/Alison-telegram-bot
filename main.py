@@ -6,10 +6,10 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # --- আপনার তথ্য অনুযায়ী সেট করা হয়েছে ---
 # আপনার টেলিগ্রাম বট টোকেন
 import os
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+TELEGRAM_BOT_TOKEN = obiopage.42web.ios.environ.get("TELEGRAM_BOT_TOKEN")
 
 # আপনার নতুন Linktree পোর্টফোলিও লিংক
-PORTFOLIO_URL = "https://linktr.ee/Alison_all_social_links" 
+PORTFOLIO_URL = "biopage.42web.io/"
 # ------------------------------------
 
 # লগিং সেটআপ
