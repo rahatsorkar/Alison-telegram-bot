@@ -11,7 +11,7 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 
 
 # আপনার নতুন Linktree পোর্টফোলিও লিংক
-PORTFOLIO_URL = "biopage.42web.io/"
+PORTFOLIO_URL = PORTFOLIO_URL = "https://biopage.42web.io/"
 # ------------------------------------
 
 # লগিং সেটআপ
